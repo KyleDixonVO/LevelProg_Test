@@ -352,3 +352,20 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 552.411131 seconds.
+  path: Assets/moveCube.cs
+  artifactKey: Guid(408a26afa537e01439232212422aa5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/moveCube.cs using Guid(408a26afa537e01439232212422aa5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744a14c56a257452b6a3c4f316469933') in 0.004421 seconds 
+  Import took 0.007056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001919 seconds.
+  path: Assets/moveCube.cs
+  artifactKey: Guid(408a26afa537e01439232212422aa5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/moveCube.cs using Guid(408a26afa537e01439232212422aa5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744a14c56a257452b6a3c4f316469933') in 0.005333 seconds 
+  Import took 0.008340 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
